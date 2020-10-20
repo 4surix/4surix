@@ -6,7 +6,7 @@
    </a>
 
    <a href="https://github.com/4surix/atomion">
-      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/767860525824344114/unknown.png" />
+      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/768178259816874029/unknown.png" />
    </a>
 
    <br/>
@@ -16,7 +16,7 @@
    </a>
 
    <a href="https://github.com/4surix/cliagramme">
-      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/767861574618316810/unknown.png" />
+      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/768178202413236254/unknown.png" />
    </a>
 
 </p>
