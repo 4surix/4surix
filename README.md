@@ -50,7 +50,7 @@
 
    <br/>
 
-   <a href="https://github.com/4surix/arkord">
+   <a href="https://github.com/4surix/arkscord">
       <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=arkscord&theme=default_repocard" />
    </a>
 
