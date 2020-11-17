@@ -1,5 +1,9 @@
 <p align="center">
 
+   <img width=320 src="https://github-readme-stats.vercel.app/api/wakatime?username=Asurix&layout=default&hide_title=true" />
+ 
+   <br/>
+
    <code>
       <a href="https://python.org">
          <img width=30 alt="Python" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2000px-Python-logo-notext.svg.png"/>
