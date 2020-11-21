@@ -31,6 +31,16 @@
    </a>
    
    <br/>
+
+   <a href="https://github.com/4surix/probapy">
+      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=probapy&theme=default_repocard" />
+   </a>
+
+   <a href="https://github.com/4surix/probapy">
+      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/779671209926197248/unknown.png" />
+   </a>
+   
+   <br/>
    
    <code>
       <a href="http://langagelinotte.free.fr/wordpress/">
