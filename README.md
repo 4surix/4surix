@@ -1,6 +1,6 @@
 <p align="center">
 
-   <img width=320 src="https://github-readme-stats.vercel.app/api/wakatime?username=Asurix&layout=default&hide_title=true" />
+   <img width=320 src="https://github-readme-stats.vercel.app/api/wakatime?username=Asurix&layout=default&hide_title=true&theme=slateorange" />
  
    <br/>
 
@@ -13,31 +13,31 @@
    <br/>
    
    <a href="https://github.com/4surix/atomion">
-      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=atomion&theme=default_repocard" />
+      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=atomion&theme=slateorange" />
    </a>
 
    <a href="https://github.com/4surix/atomion">
-      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/768178259816874029/unknown.png" />
+      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/790600070935478302/unknown.png" />
    </a>
 
    <br/>
 
    <a href="https://github.com/4surix/cliagramme">
-      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=cliagramme&theme=default_repocard" />
+      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=cliagramme&theme=slateorange" />
    </a>
 
    <a href="https://github.com/4surix/cliagramme">
-      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/768178202413236254/unknown.png" />
+      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/790599138801614868/unknown.png" />
    </a>
    
    <br/>
 
    <a href="https://github.com/4surix/probapy">
-      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=probapy&theme=default_repocard" />
+      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=probapy&theme=slateorange" />
    </a>
 
    <a href="https://github.com/4surix/probapy">
-      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/779671209926197248/unknown.png" />
+      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/790601785629999124/unknown.png" />
    </a>
    
    <br/>
@@ -51,7 +51,7 @@
    <br/>
 
    <a href="https://github.com/4surix/dictionnaire_linotte">
-      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=dictionnaire_linotte&theme=default_repocard" />
+      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=dictionnaire_linotte&theme=slateorange" />
    </a>
 
    <br/>
@@ -65,7 +65,7 @@
    <br/>
 
    <a href="https://github.com/4surix/arkscord">
-      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=arkscord&theme=default_repocard" />
+      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=arkscord&theme=slateorange" />
    </a>
 
    <br/>
