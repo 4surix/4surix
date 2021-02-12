@@ -1,6 +1,6 @@
 <p align="center">
 
-   <img width=320 src="https://github-readme-stats.vercel.app/api/wakatime?username=Asurix&layout=default&hide_title=true&theme=slateorange" />
+   <img width=320 src="https://github-readme-stats.vercel.app/api/wakatime?username=Asurix&layout=default&custom_title=Stats%20in%207%20last%20days&theme=slateorange" />
  
    <br/>
 
@@ -28,6 +28,26 @@
 
    <a href="https://github.com/4surix/cliagramme">
       <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/790599138801614868/unknown.png" />
+   </a>
+   
+   <br/>
+
+   <a href="https://github.com/4surix/pitwi">
+      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=pitwi&theme=slateorange" />
+   </a>
+
+   <a href="https://github.com/4surix/pitwi">
+      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/809587483939438622/ezgif.com-gif-maker.gif" />
+   </a>
+   
+   <br/>
+
+   <a href="https://github.com/4surix/PortalCursor">
+      <img width=320 src="https://github-readme-stats.vercel.app/api/pin/?username=4surix&repo=PortalCursor&theme=slateorange" />
+   </a>
+
+   <a href="https://github.com/4surix/PortalCursor">
+      <img width=320 src="https://cdn.discordapp.com/attachments/557310650569850881/809578695584251904/JOLwDSki5O.gif" />
    </a>
 
    <br/>
