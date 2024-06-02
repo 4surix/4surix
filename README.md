@@ -91,7 +91,7 @@
    <br/>
 
    <a href="https://github.com/ArkScript-lang/Ark">
-      <img width=30 alt="ArkScript" src="https://github.com/ArkScript-lang/Ark/blob/dev/images/ArkTransparent-by-mazz.png"/>
+      <img width=30 alt="ArkScript" src="https://raw.githubusercontent.com/ArkScript-lang/Ark/dev/.github/images/ArkTransparent-by-mazz.png"/>
    </a>
 
    <br/>
