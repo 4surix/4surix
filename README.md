@@ -5,16 +5,21 @@
 
 ### I’m currently working on ...
 
-- 🐝 **[atomion](https://github.com/4surix/honeybee)** — A relay-based BLE protocol for communication. 
-- ☢️ **[atomion](https://github.com/4surix/atomion)** — Manipulate physical/chemical concepts easily.
+- 🐝 **[HoneyBee](https://github.com/4surix/honeybee)** — A relay-based BLE protocol for communication. 
+- ☢️ **[Atomion](https://github.com/4surix/atomion)** — Manipulate physical/chemical concepts easily.
 
 ---
 
 ### I'm taking a break on ...
 
-- 🔠 **[arkscord](https://github.com/4surix/arkscord)** — Interact with the Discord API using ArkScript language.
-- 📊 **[cliagramme](https://github.com/4surix/cliagramme)** — Show and manage chart on console.
-- 📟 **[pitwi](https://github.com/4surix/pitwi)** — Create Terminal User Interface (TUI).
+- 🔠 **[Arkscord](https://github.com/4surix/arkscord)** — Interact with the Discord API using ArkScript language.
+- 📊 **[Cliagramme](https://github.com/4surix/cliagramme)** — Show and manage chart on console.
+
+---
+
+### I _think_ give up on ...
+
+- 📟 **[Pitwi](https://github.com/4surix/pitwi)** — Create Terminal User Interface (TUI).
 
 ---
 
@@ -36,6 +41,7 @@
     <td><a href="https://palletsprojects.com/projects/quart"><img src="https://raw.githubusercontent.com/koddr/quart-logo/refs/heads/master/src/png/quart_short_logo_only_bottle_color.png" width="40"/></a></td>
     <td><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a></td>
     <td><a href="https://www.haskell.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" width="40"/></a></td>
+    <td><a href="https://kotlinlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="40"/></a></td>
   </tr>
   <tr>
     <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a></td>
