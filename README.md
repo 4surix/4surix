@@ -5,13 +5,14 @@
 
 ### I’m currently working on ...
 
+- 🐝 **[atomion](https://github.com/4surix/honeybee)** — A relay-based BLE protocol for communication. 
 - ☢️ **[atomion](https://github.com/4surix/atomion)** — Manipulate physical/chemical concepts easily.
-- 🔠 **[arkscord](https://github.com/4surix/arkscord)** — Interact with the Discord API using ArkScript language.
 
 ---
 
 ### I'm taking a break on ...
 
+- 🔠 **[arkscord](https://github.com/4surix/arkscord)** — Interact with the Discord API using ArkScript language.
 - 📊 **[cliagramme](https://github.com/4surix/cliagramme)** — Show and manage chart on console.
 - 📟 **[pitwi](https://github.com/4surix/pitwi)** — Create Terminal User Interface (TUI).
 
